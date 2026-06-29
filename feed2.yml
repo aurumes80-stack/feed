@@ -1,0 +1,496 @@
+<yml_catalog date="2026-06-29T12:00:00+03:00">
+  <shop>
+    <name>Палитра чувств</name>
+    <company>«Палитра Чувств»</company>
+    <url>https://palitrachuvstv.ru/</url>
+    <email>palitra.chuvstv@mail.ru</email>
+    <picture>https://static.tildacdn.com/tild6230-3637-4535-b934-636436663730/_.svg</picture>
+    <description>Творческие мастер-классы и арт-вечеринки в Москве</description>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+      <offer id="1781603122449">
+        <name>Объемная луна с подсветкой</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1781603122449</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4800</param>
+        <param name="Ближайшая дата">2026-06-25</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6338-6634-4862-a231-383539346439/-/format/webp/noroot.png.webp</picture>
+        <description>Новая арт вечеринка! Создай уникальный арт объект - "Луна". Волшебная атмосфера рисования при свечах и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 2 -->
+      <offer id="1773916061050">
+        <name>Роспись неваляшки</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1773916061050</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4500</param>
+        <param name="Ближайшая дата">2026-06-26</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6564-6166-4766-a563-633432663634/-/format/webp/photo.jpeg.webp</picture>
+        <description>Та самая Pinterest - вечеринка! Создай уникальный арт объект для дома- "неваляшка". Волшебная атмосфера рисования при свечах и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 3 -->
+      <offer id="1782213716347">
+        <name>Роспись неваляшки</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1782213716347</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4500</param>
+        <param name="Ближайшая дата">2026-06-26</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6564-6166-4766-a563-633432663634/-/format/webp/photo.jpeg.webp</picture>
+        <description>Та самая Pinterest - вечеринка! Создай уникальный арт объект для дома- "неваляшка". Волшебная атмосфера рисования при свечах и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 4 -->
+      <offer id="1780666374413">
+        <name>Объемная луна с подсветкой</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1780666374413</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4800</param>
+        <param name="Ближайшая дата">2026-06-27</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild3164-3463-4338-a262-396135343633/-/format/webp/3b08d987c8be68c3aca3.jpeg.webp</picture>
+        <description>Новая арт вечеринка! Создай уникальный арт объект - "Луна". Волшебная атмосфера рисования при свечах и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 5 -->
+      <offer id="1780666244691">
+        <name>Создание дофаминовой вазы с фигурками</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1780666244691</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4800</param>
+        <param name="Ближайшая дата">2026-06-28</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6535-3335-4730-a431-373562636463/-/format/webp/photo_2026-04-27_15-.jpg.webp</picture>
+        <description>Та самая Pinterest - вечеринка! Создай уникальный арт объект для дома- "ваза". Волшебная атмосфера рисования при свечах и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 6 -->
+      <offer id="1780919951018">
+        <name>Трендовая летняя сумочка</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1780919951018</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4500</param>
+        <param name="Ближайшая дата">2026-06-28</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6337-3337-4861-a234-633039633230/-/format/webp/IMG_7692.PNG.webp</picture>
+        <description>Новая арт вечеринка! Создай свою собственную уникальную летнюю сумочку в технике макраме.</description>
+      </offer>
+      <!-- 7 -->
+      <offer id="1779193885745">
+        <name>Объемная живопись</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1779193885745</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>4500</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4200</param>
+        <param name="Ближайшая дата">2026-06-28</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild3337-6537-4839-b532-386331326363/-/format/webp/_16.jpeg.webp</picture>
+        <description>Авторская арт вечеринка! Объемные картины - новый тренд в современных интерьерах! Создайте свой уникальный арт объект в атмосфере творчества и вдохновения</description>
+      </offer>
+      <!-- 8 -->
+      <offer id="1773916371470">
+        <name>Роспись неваляшки</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1773916371470</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4500</param>
+        <param name="Ближайшая дата">2026-06-29</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6564-6166-4766-a563-633432663634/-/format/webp/photo.jpeg.webp</picture>
+        <description>Та самая Pinterest - вечеринка! Создай уникальный арт объект для дома- "неваляшка". Волшебная атмосфера рисования при свечах с вином и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 9 -->
+      <offer id="1781602539652">
+        <name>Создание дофаминовой вазы с фигурками</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1781602539652</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4800</param>
+        <param name="Ближайшая дата">2026-06-29</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6535-3335-4730-a431-373562636463/-/format/webp/photo_2026-04-27_15-.jpg.webp</picture>
+        <description>Та самая Pinterest - вечеринка! Создай уникальный арт объект для дома- "ваза". Волшебная атмосфера рисования при свечах и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 10 -->
+      <offer id="1782213901878">
+        <name>Роспись неваляшки</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1782213901878</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4500</param>
+        <param name="Ближайшая дата">2026-06-29</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6564-6166-4766-a563-633432663634/-/format/webp/photo.jpeg.webp</picture>
+        <description>Та самая Pinterest - вечеринка! Создай уникальный арт объект для дома- "неваляшка". Волшебная атмосфера рисования при свечах с вином и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 11 -->
+      <offer id="1782213938023">
+        <name>Создание дофаминовой вазы с фигурками</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1782213938023</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4800</param>
+        <param name="Ближайшая дата">2026-06-29</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6535-3335-4730-a431-373562636463/-/format/webp/photo_2026-04-27_15-.jpg.webp</picture>
+        <description>Та самая Pinterest - вечеринка! Создай уникальный арт объект для дома- "ваза". Волшебная атмосфера рисования при свечах и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 12 -->
+      <offer id="1780921120287">
+        <name>Трендовая летняя сумочка</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1780921120287</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4500</param>
+        <param name="Ближайшая дата">2026-06-30</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6439-3438-4539-b461-306531383730/-/format/webp/IMG_1302.PNG.webp</picture>
+        <description>Новая арт вечеринка! Создай свою собственную уникальную летнюю сумочку в технике макраме.</description>
+      </offer>
+      <!-- 13 -->
+      <offer id="1781102315079">
+        <name>Объемная луна с подсветкой</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1781102315079</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4800</param>
+        <param name="Ближайшая дата">2026-06-30</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild3164-3463-4338-a262-396135343633/-/format/webp/3b08d987c8be68c3aca3.jpeg.webp</picture>
+        <description>Новая арт вечеринка! Создай уникальный арт объект - "Луна". Волшебная атмосфера рисования при свечах и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 14 -->
+      <offer id="1780666336869">
+        <name>Объемная живопись</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1780666336869</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>4500</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4200</param>
+        <param name="Ближайшая дата">2026-07-01</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild3337-6537-4839-b532-386331326363/-/format/webp/_16.jpeg.webp</picture>
+        <description>Авторская арт вечеринка! Объемные картины - новый тренд в современных интерьерах! Создайте свой уникальный арт объект в атмосфере творчества и вдохновения</description>
+      </offer>
+      <!-- 15 -->
+      <offer id="1781602946125">
+        <name>Создание уникального обвеса на сумку</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1781602946125</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>5500</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4200</param>
+        <param name="Ближайшая дата">2026-06-30</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild3763-6635-4636-b333-343966663232/-/format/webp/FullSizeRender.jpeg.webp</picture>
+        <description>Новая арт вечеринка! Создай уникальный обвес из керамики на свою сумку! Завораживающий процесс росписи и глазировки бусин, комбинирование различных деталей никого не оставят равнодушным!</description>
+      </offer>
+      <!-- 16 -->
+      <offer id="1780665995004">
+        <name>СОЛНЕЧНАЯ ИТАЛИЯ</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1780665995004</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>4500</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">3900</param>
+        <param name="Ближайшая дата">2026-07-01</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild3065-3766-4433-b835-663366643263/-/format/webp/2025-04-07_121611.jpg.webp</picture>
+        <description>Авторская арт вечеринка! Атмосфера солнечной Италии в самом центре Москвы. Творчество, музыка и лимончелла - всё, что нужно для яркого вечера!</description>
+      </offer>
+      <!-- 17 -->
+      <offer id="1773916527604">
+        <name>Создание дофаминовой вазы с фигурками</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1773916527604</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4800</param>
+        <param name="Ближайшая дата">2026-07-01</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture></picture>
+        <description>Та самая Pinterest - вечеринка! Создай уникальный арт объект для дома- "ваза". Волшебная атмосфера рисования при свечах и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 18 -->
+      <offer id="1782214128176">
+        <name>Роспись неваляшки</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1782214128176</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4500</param>
+        <param name="Ближайшая дата">2026-07-01</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6564-6166-4766-a563-633432663634/-/format/webp/photo.jpeg.webp</picture>
+        <description>Та самая Pinterest - вечеринка! Создай уникальный арт объект для дома- "неваляшка". Волшебная атмосфера рисования при свечах с вином и уютным джазовым сопровождением.</description>
+      </offer>
+      <!-- 19 -->
+      <offer id="1780666196744">
+        <name>Создание уникального обвеса на сумку</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1780666196744</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>5500</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4200</param>
+        <param name="Ближайшая дата">2026-07-02</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild3236-3734-4539-a361-623361366330/-/format/webp/IMG_5311.jpeg.webp</picture>
+        <description>Новая арт вечеринка! Создай уникальный обвес из керамики на свою сумку! Завораживающий процесс росписи и глазировки бусин, комбинирование различных деталей никого не оставят равнодушным!</description>
+      </offer>
+      <!-- 20 -->
+      <offer id="1782214204825">
+        <name>Трендовая летняя сумочка</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1782214204825</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">4500</param>
+        <param name="Ближайшая дата">2026-07-02</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild6337-3337-4861-a234-633039633230/-/format/webp/IMG_7692.PNG.webp</picture>
+        <description>Новая арт вечеринка! Создай свою собственную уникальную летнюю сумочку в технике макраме.</description>
+      </offer>
+      <!-- 21 -->
+      <offer id="1782487876074">
+        <name>ИТАЛЬЯНСКАЯ ВЕЧЕРИНКА "Dolce Vita" с диджеем!</name>
+        <url>https://palitrachuvstv.ru/#!/tproduct/981605196-1782487876074</url>
+        <categoryId>112</categoryId>
+        <set-ids>av1</set-ids>
+        <price>4500</price>
+        <currencyId>RUB</currencyId>
+        <param name="Цена по скидке">3900</param>
+        <param name="Ближайшая дата">2026-07-11</param>
+        <param name="Продолжительность" unit="час">3</param>
+        <param name="Формат обучения">С преподавателем</param>
+        <param name="Сложность">Для новичков</param>
+        <param name="Тип обучения">Мастер-класс</param>
+        <param name="Есть вебинары">false</param>
+        <param name="Есть домашние работы">false</param>
+        <param name="Есть видеоуроки">false</param>
+        <param name="Есть текстовые уроки">false</param>
+        <param name="Есть тренажеры">false</param>
+        <param name="Есть сообщество">false</param>
+        <picture>https://optim.tildacdn.com/tild3563-6434-4538-b366-623765373562/-/format/webp/IMG_7656.png.webp</picture>
+        <description>Авторская арт вечеринка! Атмосфера солнечной Италии в самом центре Москвы. Творчество, музыка и лимончелла - всё, что нужно для яркого вечера!</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
